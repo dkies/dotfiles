@@ -1,0 +1,9 @@
+#
+# ~/.functions
+#
+
+alias cp="cp -i"                          # confirm before overwriting something
+alias cp="rm -i"                          # confirm before overwriting something
+alias cp="mv -i"                          # confirm before overwriting something
+
+alias df='df -h'                          # human-readable sizes
